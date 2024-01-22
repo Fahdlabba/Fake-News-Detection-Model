@@ -1,2 +1,3 @@
 
 Machine Learning Model To predict whether new fake or no
+⚠️I've also deployed this model as an API using FastAPI. Check the Fake-News-Detection-API repository for more details .
